@@ -1,3 +1,7 @@
+## Fork difference
+
+* Added EurKEY Keyboard Layout (https://eurkey.eu/)
+
 # Windows Keyboards Layouts (WKL)
 
 The WKL project collects the source code of a few keyboard layouts which are not,
@@ -692,3 +696,4 @@ The base language is a 4-digit hexadecimal number.
 | kbdurapplevm | 0409 | United States ISO/RU Apple VM
 | kbdusapple   | 0409 | United States Apple
 | kbdusapplevm | 0409 | United States Apple VM
+| kbduseurkey  | 0409 | European EurKey Layout v1.3
